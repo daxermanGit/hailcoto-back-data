@@ -14,7 +14,7 @@ A FastAPI application designed for item prioritization and data analysis. This a
 
 ### Prerequisites
 
-- Python 3.7+
+- Python 3.10.1
 - [FastAPI](https://fastapi.tiangolo.com/)
 - [Uvicorn](https://www.uvicorn.org/) (ASGI server)
 - [Pydantic](https://pydantic-docs.helpmanual.io/) for data validation
